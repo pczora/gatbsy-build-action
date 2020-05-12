@@ -1,0 +1,5 @@
+name: "Build Gatsby Site"
+description: "Well, it just builds the site, alright?"
+runs:
+  using: "docker"
+  image: "Dockerfile"
